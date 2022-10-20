@@ -11,6 +11,18 @@ export const NOTES = [
     { key: "A5", type: "normal", path: "/notes/A5.mp3", keyboardKey: 'n' },
     { key: "Bb5", type: "sharp", path: "/notes/Bb5.mp3", keyboardKey: 'j' },
     { key: "B5", type: "normal", path: "/notes/B5.mp3", keyboardKey: 'm' },
+    { key: "C6", type: "normal", path: "/notes/C5.mp3", keyboardKey: 'z' },
+    { key: "Db6", type: "sharp", path: "/notes/Db5.mp3", keyboardKey: 's' },
+    { key: "D6", type: "normal", path: "/notes/D5.mp3", keyboardKey: 'x' },
+    { key: "Eb6", type: "sharp", path: "/notes/Eb5.mp3", keyboardKey: 'd' },
+    { key: "E6", type: "normal", path: "/notes/E5.mp3", keyboardKey: 'c' },
+    { key: "F6", type: "normal", path: "/notes/F5.mp3", keyboardKey: 'v' },
+    { key: "Gb6", type: "sharp", path: "/notes/Gb5.mp3", keyboardKey: 'g' },
+    { key: "G6", type: "normal", path: "/notes/G5.mp3", keyboardKey: 'b' },
+    { key: "Ab6", type: "sharp", path: "/notes/Ab5.mp3", keyboardKey: 'h' },
+    { key: "A6", type: "normal", path: "/notes/A5.mp3", keyboardKey: 'n' },
+    { key: "Bb6", type: "sharp", path: "/notes/Bb5.mp3", keyboardKey: 'j' },
+    { key: "B6", type: "normal", path: "/notes/B5.mp3", keyboardKey: 'm' },
 ];
 Object.freeze(NOTES);
 
